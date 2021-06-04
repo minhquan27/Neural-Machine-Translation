@@ -25,7 +25,7 @@ Method: LSTM Bidirectional, Sequence to Sequence, Attention Bahdanau, Beam Searc
 
 ## References
 
-[1][Oriol Vinyals, Quoc Le, 22 Jul 2015. “A Neural Conversational Model”.](https://arxiv.org/abs/1506.05869)
+[1] [Oriol Vinyals, Quoc Le, 22 Jul 2015. “A Neural Conversational Model”.](https://arxiv.org/abs/1506.05869)
 
 [2] [https://towardsdatascience.com/a-comprehensive-guide-to-neural-machine-translation.](https://towardsdatascience.com/a-comprehensive-guide-to-neural-machine-translation-using-seq2sequence-modelling-using-pytorch-41c9b84ba350#6756)
 

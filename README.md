@@ -13,8 +13,19 @@ Method: LSTM Bidirectional, Sequence to Sequence, Attention Bahdanau, Beam Searc
 
 ## Seq2Seq model with the Encoder-Decoder architecture
 
-Encode
+Encoder Model Architecture
 ![Encode](/img/encode.png)
+
+Decoder Model Architecture
+![Decode]/(img/decode.png)
+
+
+Seq2Seq (Encoder + Decoder) Interface
+![seq2seq](/img/seq2seq.png)
+
+## References
+
+[1][towardsdatascience](https://towardsdatascience.com/a-comprehensive-guide-to-neural-machine-translation-using-seq2sequence-modelling-using-pytorch-41c9b84ba350#6756)
 
 
 

@@ -17,7 +17,7 @@ Encoder Model Architecture
 ![Encode](/img/encode.png)
 
 Decoder Model Architecture
-![Decode]/(/img/decode.png)
+![Decode](/img/decode.png)
 
 
 Seq2Seq (Encoder + Decoder) Interface

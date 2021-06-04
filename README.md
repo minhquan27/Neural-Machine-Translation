@@ -14,14 +14,14 @@ Method: LSTM Bidirectional, Sequence to Sequence, Attention Bahdanau, Beam Searc
 ## Seq2Seq model with the Encoder-Decoder architecture
 
 Encoder Model Architecture
-![Encode](/img/encode.png)
+![Encode](/img/encode.png){:height="50%" width="50%"}
 
 Decoder Model Architecture
-![Decode](/img/decode.png)
+![Decode](/img/decode.png){:height="50%" width="50%"}
 
 
 Seq2Seq (Encoder + Decoder) Interface
-![seq2seq](/img/seq2seq.png)
+![seq2seq](/img/seq2seq.png){:height="50%" width="50%"}
 
 ## References
 

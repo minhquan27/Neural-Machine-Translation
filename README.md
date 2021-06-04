@@ -17,7 +17,7 @@ Encoder Model Architecture
 ![Encode](/img/encode.png)
 
 Decoder Model Architecture
-![Decode]/(img/decode.png)
+![Decode]/(/img/decode.png)
 
 
 Seq2Seq (Encoder + Decoder) Interface
@@ -25,7 +25,7 @@ Seq2Seq (Encoder + Decoder) Interface
 
 ## References
 
-[1][towardsdatascience](https://towardsdatascience.com/a-comprehensive-guide-to-neural-machine-translation-using-seq2sequence-modelling-using-pytorch-41c9b84ba350#6756)
+[1] [towardsdatascience](https://towardsdatascience.com/a-comprehensive-guide-to-neural-machine-translation-using-seq2sequence-modelling-using-pytorch-41c9b84ba350#6756)
 
 
 
